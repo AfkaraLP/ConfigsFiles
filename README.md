@@ -1,6 +1,7 @@
-# Afkara's Config Files on [💤 LazyVim](https://github.com/LazyVim/LazyVim)
+# Afkara's Config Files
 
-## Neovim
+## Neovim based  on [💤 LazyVim](https://github.com/LazyVim/LazyVim)
+
 
 I really didn't change much besides the dashboard and theme.
 
