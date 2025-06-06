@@ -1,5 +1,6 @@
+local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
-config.default_prog = {"zsh"}
+
 enable_wayland = false
 
 config.font = wezterm.font "Jetbrains Mono"
